@@ -2,8 +2,8 @@
 
 	Name 		: CHIRIFI ALAOUI AMINE
 	Role 		: Front/Back End and IOT Developer 
-	EMail		: alaouy[at]gmail.com
-	Site  	: alaouy.com
+	EMail		: amine.alaouichrifi[at]gmail.com
+	Site  	: chrifialaoui.com
 	From 		: Fez, Morocco
 	
 
